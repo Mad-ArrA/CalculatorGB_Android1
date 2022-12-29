@@ -19,9 +19,10 @@
     <string name="btnNine">9</string>
     <string name="btnSquare">√</string>
     <string name="btnDivision">÷</string>
-    <string name="btnFact">!x</string>
+    <string name="btnFact">x!</string>
     <string name="btnLeftSide">(</string>
     <string name="btnRightSide">)</string>
     <string name="btnRemains">%</string>
     <string name="btnExponent">x^</string>
+    <string name="btnDelete">Del</string>
 </resources>
